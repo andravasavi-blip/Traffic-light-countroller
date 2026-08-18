@@ -1,8 +1,0 @@
-| Clock Cycle | Light Output | State  |
-| ----------- | ------------ | ------ |
-| Reset       | 100          | RED    |
-| 1           | 001          | GREEN  |
-| 2           | 010          | YELLOW |
-| 3           | 100          | RED    |
-| 4           | 001          | GREEN  |
-| ...         | Repeats      |        |
